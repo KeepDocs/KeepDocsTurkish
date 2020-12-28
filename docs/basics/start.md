@@ -1,4 +1,4 @@
-! [Giriş] (/ assets / images / keepdocgraf.jpg)
+! [Giriş](/assets/images/keepdocgraf.jpg)
 
 
 # Başta
@@ -12,13 +12,15 @@ Takılı kalan belirteçler, KEEP'in sahibi tarafından operatörün adresine de
 
 ## İçindekiler
 
-- [Giriş:] (basics / intro.md): Ağı ve tBTC'yi Korumaya Giriş.
-- [Keep Network'te stake etmenin ana nedenleri:] (Reasons / reason.md) Keep Network'te bahis oynamanın neden mantıklı olduğunu anlayın.
-- [Alternatiflerle karşılaştırma:] (karşılaştırma / karşılaştırma.md) Keep Staking'i şu anda kripto para biriminde mevcut olan alternatiflerle karşılaştırın.
-- [Staking belgeleri:] (stakingdoc / keep101.md) Takımın stake etme hakkındaki resmi belgelerini saklayın.
-- [Staking seçenekleri:] (stakingdoc / stakingoptions.md) Ortaklarla veya kendi sunucunuzda (düğüm).
-- [Düğüm çeşitleri:] (Node-Operation / intro-operation.md) Kendi düğümünüzde başlatın, yönetin, sorun giderin.
+- [Giriş:](basics/intro.md) Ağı ve tBTC'yi Korumaya Giriş.
+- [Keep Network'te stake etmenin ana nedenleri:](Reasons/reason.md) Keep Network'te bahis oynamanın neden mantıklı olduğunu anlayın.
+- [Alternatiflerle karşılaştırma:](karşılaştırma/karşılaştırma.md) Keep Staking'i şu anda kripto para biriminde mevcut olan alternatiflerle karşılaştırın.
+- [Staking belgeleri:](stakingdoc/keep101.md) Takımın stake etme hakkındaki resmi belgelerini saklayın.
+- [Staking seçenekleri:](stakingdoc/stakingoptions.md) Ortaklarla veya kendi sunucunuzda (düğüm).
+- [Düğüm çeşitleri:](Node-Operation/intro-operation.md) Kendi düğümünüzde başlatın, yönetin, sorun giderin.
 - https://dashboard.keep.network/ Resmi Keep Network panosu.
+
+?> Checkout latest version of this document in english [here](https://keepdocs.github.io/#/).
 
 ---
 Topluluk tarafından düzenlenen ve eklenen resmi Keep Team belgelerinden kaynak. '[Kaynak] (https://keep-network.gitbook.io/staking-documentation/)'
