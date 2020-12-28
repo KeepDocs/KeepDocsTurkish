@@ -23,7 +23,7 @@ Takılı kalan belirteçler, KEEP'in sahibi tarafından operatörün adresine de
 ?> Checkout latest version of this document in english [here](https://keepdocs.github.io/#/).
 
 ---
-Topluluk tarafından düzenlenen ve eklenen resmi Keep Team belgelerinden kaynak. '[Kaynak] (https://keep-network.gitbook.io/staking-documentation/)'
+`Topluluk tarafından düzenlenen ve eklenen resmi Keep Team belgelerinden kaynak.` [Kaynak](https://keep-network.gitbook.io/staking-documentation/)
 
-Yazarlar: Ramaruro, EstebanK`
+`Yazarlar: Ramaruro, EstebanK`
 `Çeviri: nadyakriy`
